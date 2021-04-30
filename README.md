@@ -1,2 +1,2 @@
 # pyNaByte
-NaByte Uploader
+Upload to NaByte via CLI
